@@ -1,8 +1,8 @@
 ### How to setup
 
-virtualenv my-enev
-. my-enev/bin/activate
-pip3 install -r requirements.txt
+virtualenv my-enev  
+. my-enev/bin/activate  
+pip3 install -r requirements.txt  
 
 ### how to run
 
