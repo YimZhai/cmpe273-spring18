@@ -17,7 +17,7 @@ def add_user():
         "name": request.form["name"]
     }
     userList[str(num)] = request.form["name"]
-    num = num+ + 1
+    num = num + 1
     return jsonify(users), 201
 
 
