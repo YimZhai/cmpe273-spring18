@@ -1,4 +1,0 @@
-{
-    "python.pythonPath": "${workspaceFolder}/my-venv/bin/python",
-    "python.linting.pylintEnabled": false
-}
