@@ -42,5 +42,5 @@ def getText():
             print("[{}]: {}".format(title,message))
 
 
-threading.Thread(target=getText).start()
-threading.Thread(target=SendMessage).start()
+threading.Thread(target = getText).start()
+threading.Thread(target = SendMessage).start()
