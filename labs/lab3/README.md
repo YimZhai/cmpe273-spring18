@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 python3 server.py
 ```
 
-###How to run a Chat client
+### How to run a Chat client
 ```
 python3 client.py [username]
 ```
